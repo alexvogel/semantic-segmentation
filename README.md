@@ -45,7 +45,7 @@ The Adam optimizer and cross-entropy as loss function is used.
 ![segmentation_60](./media_readme/segmentation_after_epoch_60.png)
 
 ---
-##* The following is the original Udacity README for this project
+## *The following is the original Udacity README for this project*
 
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
