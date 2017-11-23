@@ -10,6 +10,8 @@ An already trained neural network (VGG-16) is converted to a fully convolutional
 - skip connections are introduced
 - upsampling layers are added (transpose convolutions) till the spatial size matches the size of the input images
 
+![architecture](./media_readme/3-Figure3-1.png)
+
 ### Hyperparameters
 The hyperparameters used for traing are:
 - learning_rate: 0.0005
